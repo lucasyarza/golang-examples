@@ -1,3 +1,5 @@
+github.com/CodelyTV/golang-examples v0.0.0-20190820080634-0b583f8d634a h1:j+llHY6c1SqzW/7UbVeFfgo/AGdhb5c9DP9guFH7PPE=
+github.com/CodelyTV/golang-examples v0.0.0-20190820080634-0b583f8d634a/go.mod h1:o2PJHokyuSrz5r9BScG2VsHOABhGVLLDj5yNM9Jykns=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/inconshreveable/mousetrap v1.0.0 h1:Z8tu5sraLXCXIcARxBp/8cbvlwVa7Z1NHg9XEKhtSvM=
